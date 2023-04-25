@@ -6,7 +6,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootTest
-@EnableSwagger2
 class CargatewayApplicationTests {
 
     @Test
